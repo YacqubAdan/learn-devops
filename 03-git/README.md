@@ -37,7 +37,9 @@ git commit -m ""    # Commit with message
 git push            # Push to remote
 git pull            # Pull from remote
 git branch          # List branches
-git checkout -b     # Create and switch branch
+git branch name     # Create branch
+git checkout -b     # Create and switch
+git switch -c       # Create and switch (modern)
 git merge           # Merge branches
 ```
 
