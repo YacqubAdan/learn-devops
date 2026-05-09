@@ -38,11 +38,7 @@ git push            # Push to remote
 git pull            # Pull from remote
 git branch          # List branches
 git branch name     # Create branch
-<<<<<<< HEAD
-git checkout -b branch    # Create and switch
-=======
 git checkout -b name    # Create and switch
->>>>>>> docs/improve-docs
 git switch -c       # Create and switch (modern)
 git merge           # Merge branches
 ```
